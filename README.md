@@ -44,20 +44,20 @@ Accuracy: 90% (>80% accuracy achieved)
 
 ## ⚙️ Model Architecture
 
-![Model](img\model.png)
+![Model](img/model.png)
 
 ## 📊 Training Process & Model Performance
 
-![Model](img\training_output.png)
+![Model](img/training_output.png)
 Sample training prediction,training and validation accuracy and loss
 
-![Model](img\accuracy_graph.png)
+![Model](img/accuracy_graph.png)
 Accuracy graph during training process(epochs)
 
-![Model](img\loss_graph.png)
+![Model](img/loss_graph.png)
 Loss graph during training process(epochs)
 
-![Model](img\prediction_output.png)
+![Model](img/prediction_output.png)
 Sample test prediction
 
 ## Credit
